@@ -1,0 +1,25 @@
+{
+  "name": "summarizer-app",
+  "version": "1.0.0",
+  "description": "A full-stack AI-powered news summarizer application with beautiful UI inspired by QuillBot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hari9141/NewsBot-summarizer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/hari9141/NewsBot-summarizer/issues"
+  },
+  "homepage": "https://github.com/hari9141/NewsBot-summarizer#readme",
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  }
+}
