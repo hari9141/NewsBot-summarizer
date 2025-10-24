@@ -397,6 +397,8 @@ function App() {
   // 🎯 UPDATED FUNCTION - DIRECT HUGGING FACE API CALL
   // ============================================================================
   const handleSummarize = async () => {
+    console.log("Clicked Summarize!");
+
     if (!inputText.trim()) {
       setError(t.enterText);
       return;
